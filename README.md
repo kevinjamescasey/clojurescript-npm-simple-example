@@ -6,12 +6,12 @@ or find the [latest](https://github.com/clojure/clojurescript/releases/latest)
 
 run `java -cp cljs.jar:src clojure.main build.clj`
 
-open index.html in a browser
+open `index.html` in a browser
 
 This worked with
 
-$ node --version
+$ node --version  
 v8.9.4
 
-$ java -version
+$ java -version  
 java version "1.8.0_74"
